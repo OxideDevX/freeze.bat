@@ -1,4 +1,5 @@
 @echo off
+title freezeprog
 :a
 start www.youtube.com
 start www.facebook.com
